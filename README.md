@@ -63,8 +63,8 @@ The workflow manages the execution of these tasks as part of a single data pipel
 During testing, some workflow runs failed due to execution issues. After troubleshooting and correcting the pipeline, the workflow completed successfully.
 
 ### Workflow Execution
+<img width="1880" height="942" alt="image" src="https://github.com/user-attachments/assets/adfc9ac8-6412-4e17-a06e-e4ea8ef7e217" />
 
-![Databricks Workflow](screenshots/workflow/ecommerce_workflow.png)
 
 The successful execution confirms that the different stages of the pipeline can be orchestrated and monitored through Databricks Workflows.
   
